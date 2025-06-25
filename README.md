@@ -1,7 +1,12 @@
+# 💰 payNeeds — Expense Tracker
 
+Track, categorize, and visualize your expenses with ease.
 
-## 🧾 Overview
-A web application to log and analyze personal expenses with intuitive visualizations and categorization.
+## 🌐 Live Link
+🔗 [https://payneeds-ass9.web.app](https://payneeds-ass9.web.app)
+
+## 🖼 Screenshot
+![Screenshot](https://your-screenshot-link.com/payneeds.png)
 
 ## 🧑‍💻 Tech Stack
 - React
@@ -9,22 +14,21 @@ A web application to log and analyze personal expenses with intuitive visualizat
 - Express.js
 - MongoDB
 - Chart.js
+- Tailwind CSS
 
 ## 🚀 Features
 - Add/edit/delete expenses
-- Filter by category and date
-- Visualize expense distribution via charts
-- Responsive UI design
+- View daily/monthly analytics
+- Filter by category and tags
+- Responsive UI with chart visualizations
 
 ## 📦 Dependencies
-- react, react-dom, axios
-- express, mongoose, cors, dotenv
-- chart.js, react-chartjs-2
+- `axios`, `react-router-dom`, `chart.js`, `mongoose`, `dotenv`, `express`, `cors`
 
 ## 🛠️ Run Locally
+
 ```bash
 git clone https://github.com/Whitey1234/payNeeds.git
 cd payNeeds
 npm install
-npm run client-dev
-npm run server-dev
+npm run dev
