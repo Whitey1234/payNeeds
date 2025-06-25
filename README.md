@@ -1,6 +1,6 @@
 # 💰 payNeeds — Expense Tracker
 
-Track, categorize, and visualize your expenses with ease.
+Track, categorize, and visualize your expenses with ease. 
 
 ## 🌐 Live Link
 🔗 [https://payneeds-ass9.web.app](https://payneeds-ass9.web.app) 
