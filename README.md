@@ -5,8 +5,6 @@ Track, categorize, and visualize your expenses with ease.
 ## 🌐 Live Link
 🔗 [https://payneeds-ass9.web.app](https://payneeds-ass9.web.app)
 
-## 🖼 Screenshot
-![Screenshot](https://your-screenshot-link.com/payneeds.png)
 
 ## 🧑‍💻 Tech Stack
 - React
