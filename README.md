@@ -1,9 +1,30 @@
 
-#  name  : needPay
-#purpose : you can pay various type of bill
-# key feature 
-you can easyly find you section and pay bill easly
 
-# npm packages 
-npm i react-slider
-npm i react-icons
+## 🧾 Overview
+A web application to log and analyze personal expenses with intuitive visualizations and categorization.
+
+## 🧑‍💻 Tech Stack
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Chart.js
+
+## 🚀 Features
+- Add/edit/delete expenses
+- Filter by category and date
+- Visualize expense distribution via charts
+- Responsive UI design
+
+## 📦 Dependencies
+- react, react-dom, axios
+- express, mongoose, cors, dotenv
+- chart.js, react-chartjs-2
+
+## 🛠️ Run Locally
+```bash
+git clone https://github.com/Whitey1234/payNeeds.git
+cd payNeeds
+npm install
+npm run client-dev
+npm run server-dev
