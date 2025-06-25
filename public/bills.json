@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "bill_type": "Electricity",
+      "icon": "https://img.icons8.com/color/96/lightning-bolt.png",
+      "organization": "DESCO",
+      "amount": 1890,
+      "date": "2025-03-22T06:57:58.110Z"
+    },
+    {
+      "id": 2,
+      "bill_type": "Gas",
+      "icon": "https://img.icons8.com/color/96/gas.png",
+      "organization": "Tista",
+      "amount": 1488,
+      "date": "2025-03-28T06:57:58.110Z"
+    },
+    {
+      "id": 3,
+      "bill_type": "Internet",
+      "icon": "https://img.icons8.com/color/96/internet.png",
+      "organization": "Link3",
+      "amount": 1050,
+      "date": "2025-04-05T06:57:58.110Z"
+    },
+    {
+      "id": 4,
+      "bill_type": "Water",
+      "icon": "https://img.icons8.com/color/96/water.png",
+      "organization": "WASA",
+      "amount": 720,
+      "date": "2025-04-10T06:57:58.110Z"
+    },
+    {
+      "id": 5,
+      "bill_type": "Credit Card Bill",
+      "icon": "https://img.icons8.com/color/96/bank-cards--v1.png",
+      "organization": "Dutch Bangla Bank",
+      "amount": 3200,
+      "date": "2025-04-15T06:57:58.110Z"
+    },
+    {
+      "id": 6,
+      "bill_type": "Tuition",
+      "icon": "https://img.icons8.com/color/96/school.png",
+      "organization": "Dhaka College",
+      "amount": 2500,
+      "date": "2025-04-20T06:57:58.110Z"
+    }
+  ]
+  

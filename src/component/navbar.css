@@ -1,0 +1,38 @@
+a.active {
+    position: relative;
+    border: 2px solid #9a33f0; /* Vibrant purple */
+    border-radius: 5px; /* Smoother than 30% for links/buttons */
+    padding: 10px 8x;
+    background: transparent;
+    color: #9a33f0;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 0 rgba(154, 51, 240, 0);
+    overflow: hidden;
+}
+
+/* Glow & Hover Effect */
+a.active:hover {
+    box-shadow: 0 0 15px rgba(154, 51, 240, 0.4);
+    transform: translateY(-2px);
+}
+
+/* Pulse Animation on Active State */
+a.active:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 5px;
+    height: 5px;
+    background: rgba(154, 51, 240, 0.5);
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 0.6s ease-out;
+}
+
+a.active:hover:after {
+    transform: translate(-50%, -50%) scale(15);
+    opacity: 0;
+}
